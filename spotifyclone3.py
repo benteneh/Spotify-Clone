@@ -1,6 +1,3 @@
-#Spire ID: 33503227, 33904175
-
-
 def spotify_options():
 
     while True:
