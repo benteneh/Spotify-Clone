@@ -1,0 +1,2 @@
+
+The project is a simplified simulation of a Spotify-like application implemented in Python. It includes features such as managing songs, playlists, and queues, providing users with a menu-driven interface for interacting with the application. The code demonstrates key programming skills, including user input handling, error checking, object-oriented programming with a Queue class, and effective code organization. This project serves as a valuable showcase for an amateur coder, illustrating practical application of foundational programming concepts in a real-world scenario.
